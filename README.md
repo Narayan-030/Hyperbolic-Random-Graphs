@@ -21,4 +21,6 @@ N = 1000, K = 10, T = 0.5, Gamma = 2.5
 
 References:
 
-Aldecoa, Rodrigo, Chiara Orsini, and Dmitri Krioukov. "Hyperbolic graph generator." Computer Physics Communications 196 (2015): 492-496.
+1)Aldecoa, Rodrigo, Chiara Orsini, and Dmitri Krioukov. "Hyperbolic graph generator." Computer Physics Communications 196 (2015): 492-496.
+
+2)Krioukov, Dmitri, et al. "Hyperbolic geometry of complex networks." Physical Review E 82.3 (2010): 036106.

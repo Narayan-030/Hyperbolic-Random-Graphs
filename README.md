@@ -1,4 +1,3 @@
-[Random_Hyperbolic_Graph.pdf](https://github.com/Narayan-030/Hyperbolic-Random-Graphs/files/10057881/Random_Hyperbolic_Graph.pdf)
 # Hyperbolic-Random-Graphs
 The following code is a naive way to generate hyperbolic random graphs. The time complexity is O(N^2).
 Hence it is recommended that the number of nodes be 10^3(or lesser) while changing the variables and validating the correctness of the code.
@@ -9,6 +8,7 @@ N = Number of nodes
 T = Temperature
 Gamma =  exponent of the power-law degree distribution
 K = average degree
+![output](https://user-images.githubusercontent.com/86014109/203096897-d3833a72-3b4a-48fb-996c-ed1b9efd3bd8.png)
 
 The output of the code is:
 

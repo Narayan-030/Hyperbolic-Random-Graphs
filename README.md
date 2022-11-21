@@ -8,7 +8,6 @@ N = Number of nodes
 T = Temperature
 Gamma =  exponent of the power-law degree distribution
 K = average degree
-![output](https://user-images.githubusercontent.com/86014109/203096897-d3833a72-3b4a-48fb-996c-ed1b9efd3bd8.png)
 
 The output of the code is:
 
@@ -16,3 +15,6 @@ A pdf containing the visualisation of the network.
 An adjecency list.
 The log-log degree distribution of the network.
 The average degree of the network.
+For example; for the following input parameter values we get the following RHG.
+N = 1000, K = 10, T = 0.5, Gamma = 2.5
+![output](https://user-images.githubusercontent.com/86014109/203096897-d3833a72-3b4a-48fb-996c-ed1b9efd3bd8.png)

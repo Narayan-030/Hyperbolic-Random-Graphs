@@ -18,3 +18,7 @@ The average degree of the network.
 For example; for the following input parameter values we get the following RHG.
 N = 1000, K = 10, T = 0.5, Gamma = 2.5
 ![output](https://user-images.githubusercontent.com/86014109/203096897-d3833a72-3b4a-48fb-996c-ed1b9efd3bd8.png)
+
+References:
+
+Aldecoa, Rodrigo, Chiara Orsini, and Dmitri Krioukov. "Hyperbolic graph generator." Computer Physics Communications 196 (2015): 492-496.
